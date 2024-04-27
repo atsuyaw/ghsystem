@@ -331,7 +331,7 @@
 
 \ghsystem_add_statement:nnn {P} {351} {水で数分間注意深く洗うこと。}
 \ghsystem_add_statement:nnn {P} {352} {多量の水\ghsystem_slash:\l_ghsystem_dots_tl で洗うこと}
-\ghsystem_add_statement:nnn {P} {353} {接触部位を水【またはシャワー】で洗うこと。}
+\ghsystem_add_statement:nnn {P} {353} {接触部位を水またはシャワーで洗うこと。}
 \ghsystem_add_statement:nnn {P} {354} {すぐに水で数分間洗うこと。}
 
 \ghsystem_add_statement:nnn {P} {360} {服を脱ぐ前に，直ちに汚染された衣類及び皮膚を多量の水で洗うこと。}
@@ -412,7 +412,7 @@
 \ghsystem_add_statement:nnn {P} {410 + 412} {日光から遮断し，\qty {50} {\GHScelsius}以上の温度のばく露しないこと。}
 
 % 3.5 Precautionary Statements — Disposal
-\ghsystem_add_statement:nnn {P} {501} {内容物\ghsystem_slash: 容器を\l_ghsystem_dots_tl に排気すること。}
+\ghsystem_add_statement:nnn {P} {501} {内容物\ghsystem_slash: 容器を\l_ghsystem_dots_tl 廃棄すること。}
 \ghsystem_add_statement:nnn {P} {502} {回収またはリサイクルに関する情報について製造者または供給者に問い合わせる。}
 \ghsystem_add_statement:nnn {P} {503} {廃棄\ghsystem_slash: 回収\ghsystem_slash: リサイクルに関する情報について製造者\ghsystem_slash: 供給者\ghsystem_slash:\l_ghsystem_dots_tl に問い合わせる。}
 
